@@ -9,10 +9,14 @@ b = 24
 c = "male"
 d = "Scientific"
 
-print(a);
-print(b);
-print(c);
-print(d);
+
+def validar(b):
+    if b >= 18:
+        print(a,b,c,d);
+    else:
+        print("No es mayor de edad")
+
+
 
 # FOOTHER
 #FOOTER 2
