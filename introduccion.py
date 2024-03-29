@@ -4,6 +4,7 @@
 #HEADER 3
 
 
+
 a = "Josue Jacob"
 b = 24
 c = "male"
@@ -12,7 +13,7 @@ d = "Scientific"
 
 def validar(b):
     if b >= 18:
-        print(a,b,c,d);
+        print("Hola" + a, "tienes"+ b +"anios de old, eres" + c +"and" + d);
     else:
         print("No es mayor de edad")
 
