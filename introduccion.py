@@ -1,10 +1,9 @@
 a = "Josue Jacob"
-b = 24 anios
-c = male
-d = Scientific
+b = 24
+c = "male"
+d = "Scientific"
 
 print(a);
 print(b);
 print(c);
-print(d):
-
+print(d);
